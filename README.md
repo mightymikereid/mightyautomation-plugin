@@ -62,8 +62,8 @@ appointments, and drive automations for you.
 
 ## Pricing
 
-- Requires a paid **Mighty Automation plan** — $97/mo including
-  $100 in credits (see [mightyautomation.com](https://mightyautomation.com)).
+- Requires a paid **Mighty Automation plan** — $97/mo, includes $100 in AI credits
+  (see [mightyautomation.com](https://mightyautomation.com)).
 - MCP calls are metered against your workspace credits at **$0.005 per
   successful tool call**. Failed calls (validation errors, not found) are
   free, and `whoami` / `get_credit_balance` are always free.
