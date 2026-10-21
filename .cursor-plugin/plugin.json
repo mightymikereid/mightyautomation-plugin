@@ -16,6 +16,7 @@
     "properties": {
       "MA_MCP_KEY": {
         "type": "string",
+        "title": "MCP API key",
         "description": "Your Mighty Automation MCP API key (mva_mcp_...) — generate it in your dashboard under Integrations → Zapier & other tools → AI connectors (MCP) → Generate key"
       }
     },

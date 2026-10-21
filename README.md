@@ -62,7 +62,7 @@ appointments, and drive automations for you.
 
 ## Pricing
 
-- Requires a paid **Mighty Automation plan** — $97 one-time setup including
+- Requires a paid **Mighty Automation plan** — $97/mo including
   $100 in credits (see [mightyautomation.com](https://mightyautomation.com)).
 - MCP calls are metered against your workspace credits at **$0.005 per
   successful tool call**. Failed calls (validation errors, not found) are
@@ -77,7 +77,7 @@ appointments, and drive automations for you.
 
 ## Links
 
-- Docs: [mcp.mightyautomation.com](https://mcp.mightyautomation.com)
+- Docs: [mcp.mightyautomation.com](https://mightyautomation.com/docs/mcp)
 - Product: [mightyautomation.com](https://mightyautomation.com)
 - Privacy: [mightyautomation.com/privacy](https://mightyautomation.com/privacy)
 - Terms: [mightyautomation.com/terms](https://mightyautomation.com/terms)
