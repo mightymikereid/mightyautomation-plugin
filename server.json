@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.mightyautomation/mcp",
+  "title": "Mighty Automation",
+  "description": "Mighty Automation MCP server — create and update CRM contacts and leads, manage tags, notes, appointments, booking links and automations, send email, import files, and subscribe to webhooks for your marketing workspace.",
+  "repository": {
+    "url": "https://github.com/mightymikereid/mightyautomation-plugin",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.mightyautomation.com/api/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Bearer mva_mcp_… key — generate in your Mighty Automation dashboard under Integrations → Zapier & other tools → AI connectors (MCP) → Generate key. Requires a paid Mighty Automation plan.",
+          "isRequired": true,
+          "isSecret": true,
+          "value": "Bearer ${MA_MCP_KEY}"
+        }
+      ]
+    }
+  ]
+}

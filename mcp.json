@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mightyautomation": {
+      "url": "https://mcp.mightyautomation.com/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${MA_MCP_KEY}"
+      }
+    }
+  }
+}
