@@ -1,7 +1,7 @@
 # Mighty Automation — MCP Connector
 
-The official [Mighty Automation](https://mightyautomation.com) MCP server and
-plugin. Connect your AI client — Grok Bot, Cursor, Claude, ChatGPT, VS Code,
+Marketing automation platform with built-in CRM — this is the official
+[Mighty Automation](https://mightyautomation.com) MCP server and plugin. Connect your AI client — Grok Bot, Cursor, Claude, ChatGPT, VS Code,
 or any MCP-compatible agent — to your Mighty Automation marketing workspace
 so it can create contacts, manage your pipeline, send email, book
 appointments, and drive automations for you.
@@ -62,8 +62,8 @@ appointments, and drive automations for you.
 
 ## Pricing
 
-- Requires a paid **Mighty Automation plan** — $97 one-time setup including
-  $100 in credits (see [mightyautomation.com](https://mightyautomation.com)).
+- Requires a paid **Mighty Automation plan** — $97/mo, includes $100 in AI credits
+  (see [mightyautomation.com](https://mightyautomation.com)).
 - MCP calls are metered against your workspace credits at **$0.005 per
   successful tool call**. Failed calls (validation errors, not found) are
   free, and `whoami` / `get_credit_balance` are always free.
@@ -77,7 +77,7 @@ appointments, and drive automations for you.
 
 ## Links
 
-- Docs: [mcp.mightyautomation.com](https://mcp.mightyautomation.com)
+- Docs: [mightyautomation.com/docs/mcp](https://mightyautomation.com/docs/mcp)
 - Product: [mightyautomation.com](https://mightyautomation.com)
 - Privacy: [mightyautomation.com/privacy](https://mightyautomation.com/privacy)
 - Terms: [mightyautomation.com/terms](https://mightyautomation.com/terms)
