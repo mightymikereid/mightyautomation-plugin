@@ -1,7 +1,7 @@
 # Mighty Automation — MCP Connector
 
-The official [Mighty Automation](https://mightyautomation.com) MCP server and
-plugin. Connect your AI client — Grok Bot, Cursor, Claude, ChatGPT, VS Code,
+Marketing automation platform with built-in CRM — this is the official
+[Mighty Automation](https://mightyautomation.com) MCP server and plugin. Connect your AI client — Grok Bot, Cursor, Claude, ChatGPT, VS Code,
 or any MCP-compatible agent — to your Mighty Automation marketing workspace
 so it can create contacts, manage your pipeline, send email, book
 appointments, and drive automations for you.

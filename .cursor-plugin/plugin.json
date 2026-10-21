@@ -9,7 +9,7 @@
   "homepage": "https://mightyautomation.com",
   "repository": "https://github.com/mightymikereid/mightyautomation-plugin",
   "license": "MIT",
-  "keywords": ["mcp", "crm", "marketing-automation", "contacts", "email", "appointments"],
+  "keywords": ["marketing", "marketing-automation", "email-marketing", "mcp", "crm", "contacts", "email", "appointments"],
   "logo": "assets/logo.png",
   "variables": {
     "type": "object",

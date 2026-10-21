@@ -2,12 +2,12 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.mightyautomation/mcp",
   "title": "Mighty Automation",
-  "description": "Mighty Automation: CRM contacts, leads, email, bookings, automations.",
+  "description": "Mighty Automation: marketing automations, email, leads, contacts and bookings.",
   "repository": {
     "url": "https://github.com/mightymikereid/mightyautomation-plugin",
     "source": "github"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "remotes": [
     {
       "type": "streamable-http",
