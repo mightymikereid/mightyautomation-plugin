@@ -64,9 +64,10 @@ appointments, and drive automations for you.
 
 - Requires a paid **Mighty Automation plan** — $97/mo, includes $100 in AI credits
   (see [mightyautomation.com](https://mightyautomation.com)).
-- MCP calls are metered against your workspace credits at **$0.005 per
-  successful tool call**. Failed calls (validation errors, not found) are
-  free, and `whoami` / `get_credit_balance` are always free.
+- **Read-only tools are always free.** Successful writes cost **$0.005** of
+  credits per call (`import_file` $0.025; `send_email` also bills the
+  standard per-email rate). Failed calls — validation errors, not found —
+  are never charged.
 - If your plan lapses, calls are rejected until billing is restored.
 
 ## Security
