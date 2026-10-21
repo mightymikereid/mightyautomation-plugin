@@ -77,7 +77,7 @@ appointments, and drive automations for you.
 
 ## Links
 
-- Docs: [mcp.mightyautomation.com](https://mightyautomation.com/docs/mcp)
+- Docs: [mightyautomation.com/docs/mcp](https://mightyautomation.com/docs/mcp)
 - Product: [mightyautomation.com](https://mightyautomation.com)
 - Privacy: [mightyautomation.com/privacy](https://mightyautomation.com/privacy)
 - Terms: [mightyautomation.com/terms](https://mightyautomation.com/terms)
